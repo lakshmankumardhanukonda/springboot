@@ -1,6 +1,5 @@
 package com.example.springbootdemo.controller;
 
-import com.example.springbootdemo.model.Notification;
 import com.example.springbootdemo.service.KafkaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

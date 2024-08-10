@@ -1,7 +1,6 @@
 package com.example.springbootdemo.service;
 
 import com.example.springbootdemo.kafka.KafkaProducer;
-import com.example.springbootdemo.model.Notification;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
